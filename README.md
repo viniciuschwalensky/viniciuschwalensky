@@ -10,10 +10,10 @@
 
 <ul>
   <li>
-  💻&nbsp;&nbsp;&nbsp;My current development skills are: HTML, CSS, Vanilla JS, jQuery, PHP and MySQL.
+  💻&nbsp;&nbsp;My current development skills are: HTML, CSS, Vanilla JS, jQuery, PHP and MySQL.
   </li>
   <li>
-  🎨&nbsp;&nbsp;&nbsp;My current design skills are: Adobe Photoshop, Adobe Illustrator, Adobe XD and Figma.
+  🎨&nbsp;&nbsp;My current design skills are: Adobe Photoshop, Adobe Illustrator, Adobe XD and Figma.
   </li>
 </ul>
 
