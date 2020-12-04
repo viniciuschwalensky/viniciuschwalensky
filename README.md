@@ -9,7 +9,7 @@
   💻&nbsp;&nbsp;My current <b> development </b> skills are: HTML, CSS, Vanilla JS, jQuery, PHP and MySQL.
   </li>
   <li>
-  🎨&nbsp;&nbsp;My current <b> design </> skills are: Adobe Photoshop, Adobe XD and Figma.
+  🎨&nbsp;&nbsp;My current <b> design </b> skills are: Adobe Photoshop, Adobe XD and Figma.
   </li>
 </ul>
 
