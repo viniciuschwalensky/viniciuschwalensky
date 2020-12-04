@@ -16,6 +16,8 @@
     <li> MySQL </li>
 </ul>
 
+<hr>
+
 🎨&nbsp;&nbsp;My current <b> design </b> skills are:
 <ul>
     <li> Adobe Photoshop </li>
