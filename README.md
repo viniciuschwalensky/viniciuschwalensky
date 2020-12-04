@@ -4,6 +4,8 @@
     I am a student of <b> Informatics for Internet </b> at ETELG and a lover of <b> web development </b> and <b> ui/ux design </b>.
 </p>
 
+<hr>
+
 💻&nbsp;&nbsp;My current <b> development </b> skills are:
 <ul>
     <li> HTML </li>
