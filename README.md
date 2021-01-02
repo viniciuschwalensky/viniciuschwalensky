@@ -1,5 +1,7 @@
 ### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
+<hr>
+
 <p>
     I am a student of <b> Informatics for Internet </b> at ETELG and a lover of <b> web development </b> and <b> ui/ux design </b>.
 </p>
