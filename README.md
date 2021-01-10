@@ -3,7 +3,7 @@
 <hr>
 
 <p>
-    I am a student of <b> Informatics for Internet </b> at ETELG and a lover of <b> web development </b> and <b> ui/ux design </b>.
+    I am a student of <b> Informatics for Internet </b> and a lover of <b> web development </b> and <b> ui/ux design </b>.
 </p>
 
 <hr>
