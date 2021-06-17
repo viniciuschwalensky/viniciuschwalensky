@@ -12,6 +12,8 @@
 <ul>
     <li> HTML </li>
     <li> CSS </li>
+    <li> SCSS/Sass </li>
+    <li> Bootstrap </li>
     <li> Vanilla JS </li>
     <li> jQuery </li>
     <li> PHP </li>
@@ -23,6 +25,7 @@
 🎨&nbsp;&nbsp;My current <b> design </b> skills are:
 <ul>
     <li> Adobe Photoshop </li>
+    <li> Adobe Illustrator </li>
     <li> Adobe XD </li>
     <li> Figma </li>
 </ul>
