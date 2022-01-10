@@ -3,12 +3,12 @@
 <hr>
 
 <p>
-    I am a student of <b> Informatics for Internet </b> and a lover of <b> web development </b> and <b> ui/ux design </b>.
+    Olá! Sou técnico em <b> Informática para Internet </b> pela ETELG e um amante de <b> Desenvolvimento Web </b> e <b> UX/UI Design </b>.
 </p>
 
 <hr>
 
-💻&nbsp;&nbsp;My current <b> development </b> skills are:
+💻&nbsp;&nbsp; Minhas atuais skills em <b> Desenvolvimento </b> são:
 <ul>
     <li> HTML </li>
     <li> CSS </li>
@@ -22,7 +22,7 @@
 
 <hr>
 
-🎨&nbsp;&nbsp;My current <b> design </b> skills are:
+🎨&nbsp;&nbsp; Minhas atuais skills em <b> Design </b> são:
 <ul>
     <li> Adobe Photoshop </li>
     <li> Adobe Illustrator </li>
